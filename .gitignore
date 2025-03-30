@@ -1,0 +1,7 @@
+# Go build artifacts
+bin/
+*.exe
+*.test
+*.out
+counter.json
+test_counter.json
